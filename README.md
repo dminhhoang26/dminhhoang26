@@ -1,11 +1,15 @@
 ## @dminhhoang26 👋 Hi there
 
 <picture>
-  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" align="center"  width="900">
+  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" align="center" width="900">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics" align="center"  width="900">
+  <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" align="center" width="900">
+</picture>
+
+<picture>
+  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics" align="center" width="900">
 </picture>
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
