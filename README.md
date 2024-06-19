@@ -1,11 +1,11 @@
 ## @dminhhoang26 👋 Hi there
 
 <picture>
-  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics"  width="100%">
+  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" align="center"  width="900">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics"  width="100%">
+  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics" align="center"  width="900">
 </picture>
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
