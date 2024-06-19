@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# @dminhhoang26
+
+<picture>
+  <img src="/metrics.plugin.habits.facts.svg" alt="Metrics"  width="400">
+  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics"  width="400">
+</picture>
+
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
 <!--
 **dminhhoang26/dminhhoang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

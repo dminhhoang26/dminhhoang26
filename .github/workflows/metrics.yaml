@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  # Updated daily
+  schedule: [{cron: "0 0 * * *"}]
+  # Or manually
+  workflow_dispatch:
+  # Or when pushing to main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    environment: 
+      name: production
+    steps:
+      # name: Mildly interesting facts
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Ho_Chi_Minh
+
+      # name: Recent activity charts
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Ho_Chi_Minh
