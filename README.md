@@ -12,7 +12,6 @@
   <img src="/metrics.plugin.habits.facts.svg" alt="Metrics" align="center" width="900">
 </picture>
 
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics"> -->
 <!--
 **dminhhoang26/dminhhoang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
