@@ -43,7 +43,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, less, json, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, dark
+          plugin_languages_ignored: html, css, scss, less, json, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, dart
           plugin_languages_indepth: yes
           plugin_languages_sections: recently-used
           plugin_languages_details: lines, bytes-size
