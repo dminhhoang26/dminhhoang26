@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 153kb of code in 95 edited files across 14 commits over last 3 days</small>
+                <small>estimation from 162kb of code in 99 edited files across 16 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.10949521020495" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.10949521020495" y="0" width="24.62450985258351" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.7340050627885" y="0" width="23.265994937211495" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.1445325974474" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.1445325974474" y="0" width="27.75686197210861" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.901394569556" y="0" width="23.098605430443996" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -62,8 +62,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>155 lines</div>
-                                <div>4.31 kB</div>
+                                <div>173 lines</div>
+                                <div>4.90 kB</div>
                             </small>
                         </div>
                     </section>
