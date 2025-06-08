@@ -16,15 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 279kb of code in 54 edited files across 31 commits over last 21 days</small>
+                <small>estimation from 313kb of code in 93 edited files across 45 commits over last 22 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.76076541351955" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.76076541351955" y="0" width="26.814237682042883" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.5750030955624" y="0" width="0.4249969044376078" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.33745550236915" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.33745550236915" y="0" width="22.724667629941155" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.0621231323103" y="0" width="11.269504290338466" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.3316274226488" y="0" width="0.6683725773512105" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,20 +37,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.39k lines</div>
-                                <div>98.7 kB</div>
+                                <div>2.83k lines</div>
+                                <div>114 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Batchfile
+                                PowerShell
                             </div>
                             <small>
-                                <div>3 lines</div>
-                                <div>97 bytes</div>
+                                <div>88 lines</div>
+                                <div>3.04 kB</div>
                             </small>
                         </div>
                     </section>
@@ -64,6 +65,18 @@
                             <small>
                                 <div>260 lines</div>
                                 <div>6.12 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Batchfile
+                            </div>
+                            <small>
+                                <div>6 lines</div>
+                                <div>180 bytes</div>
                             </small>
                         </div>
                     </section>
