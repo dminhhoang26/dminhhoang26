@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 417kb of code in 139 edited files across 89 commits over last 30 days</small>
+                <small>estimation from 368kb of code in 136 edited files across 85 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.95094449810205" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.95094449810205" y="0" width="34.96417420992341" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.9151187080255" y="0" width="1.0848812919745736" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.7337305034959" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="415.7337305034959" y="0" width="42.93409457614497" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.66782507964086" y="0" width="1.332174920359108" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.79k lines</div>
-                                <div>246 kB</div>
+                                <div>4.50k lines</div>
+                                <div>196 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
