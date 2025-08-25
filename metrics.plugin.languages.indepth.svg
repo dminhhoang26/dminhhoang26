@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 157kb of code in 91 edited files across 59 commits over last 30 days</small>
+                <small>estimation from 154kb of code in 91 edited files across 58 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.51658507571943" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.51658507571943" y="0" width="2.483414924280551" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.98564125695384" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.98564125695384" y="0" width="2.0143587430461585" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.42k lines</div>
-                                <div>108 kB</div>
+                                <div>2.38k lines</div>
+                                <div>105 kB</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>20 lines</div>
-                                <div>590 bytes</div>
+                                <div>18 lines</div>
+                                <div>466 bytes</div>
                             </small>
                         </div>
                     </section>
