@@ -15,15 +15,15 @@ jobs:
       name: production
     steps:
       # name: Mildly interesting facts
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Ho_Chi_Minh
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.habits.facts.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_facts: yes
+      #     plugin_habits_charts: no
+      #     config_timezone: Asia/Ho_Chi_Minh
 
       # name: Recent activity charts
       - uses: lowlighter/metrics@latest
@@ -37,16 +37,16 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
 
       # name: Indepth analysis
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: css, scss, less, json, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, dart
-          plugin_languages_indepth: yes
-          plugin_languages_sections: recently-used
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_recent_days: 0
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.languages.indepth.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_languages: yes
+      #     plugin_languages_ignored: css, scss, less, json, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, dart
+      #     plugin_languages_indepth: yes
+      #     plugin_languages_sections: recently-used
+      #     plugin_languages_details: lines, bytes-size
+      #     plugin_languages_limit: 4
+      #     plugin_languages_analysis_timeout: 15
+      #     plugin_languages_recent_days: 0
