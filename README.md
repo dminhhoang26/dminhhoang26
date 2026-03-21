@@ -4,9 +4,9 @@
   <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" align="center" width="800">
 </picture> -->
 <br/><br/>
-<picture>
+<!-- <picture>
   <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" align="center" width="800">
-</picture>
+</picture> -->
 <br/><br/>
 <!-- <picture>
   <img src="/metrics.plugin.habits.facts.svg" alt="Metrics" align="center" width="800">
